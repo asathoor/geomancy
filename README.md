@@ -1,6 +1,6 @@
 # Fortunes: Geomancy
 
-![Agrippa's Geomantic Figures](https://www.renaissanceastrology.com/images/figuresplanetaryrulers.jpg)
+![Agrippa's Geomantic Figures](figuresplanetaryrulers.jpg)
 
 ## Based on Cornelius Agrippa's "De Occulta Philosophia" (1533)
 
