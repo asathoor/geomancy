@@ -12,3 +12,9 @@ The geomantic figures were used by the adepti of the *Hermetic Order of the Gold
 
 Per Thykjaer Jensen
 Die Solis 20220313
+
+# Install
+
+Copy the geomancy and geomancy.dat files to `/usr/share/games/fortune`. Then run:
+
+`fortune geomancy` in a terminal. 
