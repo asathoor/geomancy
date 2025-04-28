@@ -15,6 +15,21 @@ Die Solis 20220313
 
 # Install
 
+
+
+## Linux
+
 Copy the geomancy and geomancy.dat files to `/usr/share/games/fortune`. Then run:
 
 `fortune geomancy` in a terminal. 
+
+## Mac
+
+Here you must create a new .dat file. Do it like this:
+
+~~~~~
+rm geomancy.dat
+strfile -c % geomancy geomancy.dat
+~~~~~
+
+This will create a .dat for Mac.
