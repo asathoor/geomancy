@@ -52,13 +52,13 @@ Save the two files here:
 /opt/homebrew/opt/fortune/share/games/fortune
 ~~~~~
 
-### Mac and Linux: Create the *.dat file
+### Create a new *.dat file
 
-Here you must create a new .dat file. Do it like this:
+Fortune will need both the file with your quotes and a *.dat file. You can create a new *.dat file like this:
 
 ~~~~~
 rm geomancy.dat
 strfile -c % geomancy geomancy.dat
 ~~~~~
 
-This will create a .dat for Mac. Now copy the files to the fortune folder. If fortune is installed via Homebrew the file is somewhere around here:
+This will create a new .dat for Mac. Now copy the files to the fortune folder mentioned above.
