@@ -13,7 +13,7 @@ The geomantic figures were used by the adepti of the *Hermetic Order of the Gold
 Because the geomantic symbols are of a binary nature, they'll work so much the better on a computer.
 
 Per Thykjaer Jensen
-Die Solis 20220313
+Die Walpurgis, Mercurii 20250430
 
 ## How to create your own fortune files
 
