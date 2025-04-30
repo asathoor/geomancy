@@ -29,13 +29,25 @@ In your favorite editor just collect some sentences, and divide them by a %-char
 
 ## Install
 
-## Linux
+### Install fortune
+
+If you don't have fortune, you'll have to install the program first. 
+
+### Linux
 
 Copy the geomancy and geomancy.dat files to `/usr/share/games/fortune`. Then run:
 
 `fortune geomancy` in a terminal. 
 
-## Mac and Linux: create the *.dat file
+### Mac
+
+Save the two files here:
+
+~~~~~
+/opt/homebrew/opt/fortune/share/games/fortune
+~~~~~
+
+### Mac and Linux: Create the *.dat file
 
 Here you must create a new .dat file. Do it like this:
 
@@ -45,7 +57,3 @@ strfile -c % geomancy geomancy.dat
 ~~~~~
 
 This will create a .dat for Mac. Now copy the files to the fortune folder. If fortune is installed via Homebrew the file is somewhere around here:
-
-~~~~~
-/opt/homebrew/opt/fortune/share/games/fortune
-~~~~~
