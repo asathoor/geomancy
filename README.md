@@ -1,6 +1,6 @@
 # Fortunes: Geomancy
 
-![Agrippa's Geomantic Figures](figuresplanetaryrulers.jpg)
+![Agrippa's Geomantic Figures](figuresplanetaryrulers.jpg "Geomantic Symbols")
 
 - Illustration: from Agrippa's "De Occulta Philosophia" (1533)
 
