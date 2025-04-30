@@ -12,8 +12,8 @@ The geomantic figures were also used used by the adepti of the *Hermetic Order o
 
 Because the geomantic symbols are of a binary nature, they'll work so much the better on a computer.
 
-Per Thykjaer Jensen, F.R.C. 
-Die Walpurgis, 20250430
+Per Thykjaer Jensen, F.R.C.   
+Die Walpurgis, 20250430   
 
 ## How to create your own fortune files
 
