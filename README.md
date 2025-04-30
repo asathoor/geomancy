@@ -13,9 +13,21 @@ The geomantic figures were used by the adepti of the *Hermetic Order of the Gold
 Per Thykjaer Jensen
 Die Solis 20220313
 
-# Install
+## How to create your own fortune files
+
+In your favorite editor just collect some sentences, and divide them by a %-character. Do it something along these lines:
+
+~~~~
+"Do what thou willt shall be the whole of the Law."
+   - Aleister Crowley (1875 - 1947)
+%
+"Nothing beats two guitars, bass and drums."
+   - Lou Reed (1942 - 2013)
+~~~~
 
 
+
+## Install
 
 ## Linux
 
@@ -23,7 +35,7 @@ Copy the geomancy and geomancy.dat files to `/usr/share/games/fortune`. Then run
 
 `fortune geomancy` in a terminal. 
 
-## Mac
+## Mac and Linux: create the *.dat file
 
 Here you must create a new .dat file. Do it like this:
 
@@ -32,4 +44,8 @@ rm geomancy.dat
 strfile -c % geomancy geomancy.dat
 ~~~~~
 
-This will create a .dat for Mac.
+This will create a .dat for Mac. Now copy the files to the fortune folder. If fortune is installed via Homebrew the file is somewhere around here:
+
+~~~~~
+/opt/homebrew/opt/fortune/share/games/fortune
+~~~~~
