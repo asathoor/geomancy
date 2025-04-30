@@ -6,7 +6,7 @@
 
 ## Based on Cornelius Agrippa's "De Occulta Philosophia" (1533)
 
-The fortunes random quotes are often used in UNIX / Linux systems for random quotes. But a connection to the art of fortune telling as taugt by the hermetic philosophers were never made.
+The fortunes random quotes are often used in UNIX / Linux systems for random quotes. But a connection to the art of fortune telling as taugt by the hermetic philosophers was never made. So here is the first real fortune telling plug for the Linux fortune teller.
 
 The origin of the geomantic figures are unknown. Geomancy was known by renaissance magi. The Geomantic fortune symbols are described by Agrippa von Nettesheim in the chapter: *"De Geomantia, Hydromantia, Acromantia, Pyromantiaquatuor elementorum diuinationibus" (Cap. LV)"* in "De Occulta Philosophia" (1531 - 1533) and in the illustrations of this work.
 
@@ -40,7 +40,7 @@ In your favorite editor just collect some sentences, and divide them by a %-char
 
 If you don't have fortune, you'll have to install the program first. 
 
-### Linux
+### Execute the plugin
 
 Copy the geomancy and geomancy.dat files to `/usr/share/games/fortune`. Then run:
 
@@ -48,11 +48,13 @@ Copy the geomancy and geomancy.dat files to `/usr/share/games/fortune`. Then run
 
 ### Mac
 
-Save the two files here:
+On a Mac you'll have to find out where Fortune's files are kept. On my system they are here:
 
 ~~~~~
 /opt/homebrew/opt/fortune/share/games/fortune
 ~~~~~
+
+As above just copy the two files to the directory.
 
 ### Create a new *.dat file
 
